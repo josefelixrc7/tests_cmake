@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test3.dir/src/main.cpp.o CMakeFiles/test3.dir/src/Biblioteca.cpp.o  -o test3 

@@ -1,0 +1,2 @@
+#define test4_VERSION_MAJOR @test4_VERSION_MAJOR@
+#define test4_VERSION_MINOR @test4_VERSION_MINOR@

@@ -1,0 +1,12 @@
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/CMakeFiles/test.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/CMakeFiles/edit_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/src/CMakeFiles/test.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/src/CMakeFiles/BIBLIOTECA.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/src/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/src/CMakeFiles/edit_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/src/CMakeFiles/test3.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests/CMakeFiles/edit_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests/CMakeFiles/test_main.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests/CMakeFiles/test.dir

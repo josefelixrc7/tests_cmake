@@ -1,0 +1,4 @@
+/usr/local/bin/test2
+/usr/local/include/test2Config.h
+/usr/local/lib/libBiblioteca.a
+/usr/local/include/Biblioteca.h

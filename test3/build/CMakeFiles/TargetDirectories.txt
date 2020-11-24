@@ -1,0 +1,6 @@
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/CMakeFiles/rebuild_cache.dir
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/CMakeFiles/edit_cache.dir
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/src/CMakeFiles/BIBLIOTECA.dir
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/src/CMakeFiles/rebuild_cache.dir
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/src/CMakeFiles/edit_cache.dir
+/run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test3/build/src/CMakeFiles/test3.dir

@@ -1,0 +1,3 @@
+#define test2_VERSION_MAJOR 1
+#define test2_VERSION_MINOR 0
+#define USE_MIBIBLIOTECA

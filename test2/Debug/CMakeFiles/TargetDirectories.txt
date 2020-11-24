@@ -1,0 +1,14 @@
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/install/local.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/install/strip.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/edit_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/test2.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/list_install_components.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/CMakeFiles/install.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/install/local.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/install/strip.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/edit_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/Biblioteca.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/install.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test2/Debug/Biblioteca/CMakeFiles/list_install_components.dir

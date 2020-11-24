@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_main.dir/testGen.cc.o  -o test_main  -L/usr/local/stow/cppunit/lib -Wl,-rpath,/usr/local/stow/cppunit/lib -lcppunit ../src/libBIBLIOTECA.a 

@@ -1,0 +1,3 @@
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test1/build/CMakeFiles/Tutorial.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test1/build/CMakeFiles/rebuild_cache.dir
+/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test1/build/CMakeFiles/edit_cache.dir

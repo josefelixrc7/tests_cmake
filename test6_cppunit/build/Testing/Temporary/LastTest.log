@@ -1,0 +1,21 @@
+Start testing: Aug 12 11:45 -04
+----------------------------------------------------------
+1/1 Testing: nombre_del_test
+1/1 Test: nombre_del_test
+Command: "/home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests/test_main"
+Directory: /home/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/tests/test_cmake/test6_cppunit/build/tests
+"nombre_del_test" start time: Aug 12 11:45 -04
+Output:
+----------------------------------------------------------
+TestBasicMath::testAddition : OK
+TestBasicMath::testMultiply : OK
+OK (2)
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"nombre_del_test" end time: Aug 12 11:45 -04
+"nombre_del_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 12 11:45 -04
